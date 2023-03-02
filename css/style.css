@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #37afe7;
+    max-height: 100px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#logo {
+    height: 91px;
+    width: 170px; 
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.cabecalho .menu{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 20px;
+}
+
+.cabecalho nav li a {
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: 0.2s;
+}
+
+.cabecalho nav li a:hover {
+    background-color: #1a21f1;
+}
+
+#hmpg {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 150px;
+}
+
+#bsn {
+    height: 450px;
+    width: 750px;
+    padding-left: 30px;
+    border: #1a21f1;
+    border-radius: 50px;
+}
+
+h1{
+    text-align: right;
+    padding: 30px;
+    color: #1a21f1;
+}
+
+p{
+    color: #000000;
+}
+
+#company {
+    display: flex;
+
+}
+
+#blackman {
+    width: 690px;
+    border-radius: 10px;
+}
+
+#scr {
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    padding: 50px;
+    text-align: justify;
+}
+
+#objectives {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#moes {
+    width: 690px;
+}
