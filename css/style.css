@@ -61,7 +61,7 @@ nav ul {
 #bsn {
     height: 450px;
     width: 750px;
-    padding-left: 30px;
+    /* padding-left: 30px; */
     border-radius: 50px;
     margin: 2%;
     border: 5px inset #1a21f1;
